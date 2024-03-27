@@ -41,8 +41,26 @@ export default function Home() {
       </div>
 
       <div className="grid grid-cols-2 gap-4">
-        <div>Question 1</div>
-        <div>Question 2</div>
+        <div>
+          <h2>Question 1</h2>
+          </h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            My most and least favorite support tasks.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>                
+        </div>
+        <div>
+          <h2>Question 2</h2>
+          </h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            Learn more. Do more.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>              
+        </div>
         <div>Question 3</div>
         <div>Question 4</div>
         <div>Question 5</div>
