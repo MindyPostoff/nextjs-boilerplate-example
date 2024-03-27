@@ -50,22 +50,22 @@ export default function Home() {
             Most Favorite:
           </p>   
           <ul className={`list-decimal`}>
-            <li>Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems.</li>
-            <li>Work with the product team to develop a new feature based on feedback from customers.</li>
-            <li>Create video tutorials to help teach users a specific feature or use case.</li>
-            <li>Manage a support team.</li>
-            <li>Help train and onboard new support teammates.</li>
+            <li className={`text-sm p-4`}>Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems.</li>
+            <li className={`text-sm p-4`}>Work with the product team to develop a new feature based on feedback from customers.</li>
+            <li className={`text-sm p-4`}>Create video tutorials to help teach users a specific feature or use case.</li>
+            <li className={`text-sm p-4`}>Manage a support team.</li>
+            <li className={`text-sm p-4`}>Help train and onboard new support teammates.</li>
           </ul>
 
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
             Least Favorite:
           </p>   
           <ul className={`list-decimal`}>
-            <li>Dig through logs to troubleshoot a broken project.</li>
-            <li>Analyze hundreds of support tickets to spot trends the product team can use.</li>
-            <li>Scheduling time-off coverage and collaborating as part of a growing cohesive support team.</li>
-            <li>Respond to over 50 support requests via email every day.</li>
-            <li>Identify, file bugs in private and public repos on GitHub.</li>
+            <li className={`text-sm p-4`}>Dig through logs to troubleshoot a broken project.</li>
+            <li className={`text-sm p-4`}>Analyze hundreds of support tickets to spot trends the product team can use.</li>
+            <li className={`text-sm p-4`}>Scheduling time-off coverage and collaborating as part of a growing cohesive support team.</li>
+            <li className={`text-sm p-4`}>Respond to over 50 support requests via email every day.</li>
+            <li className={`text-sm p-4`}>Identify, file bugs in private and public repos on GitHub.</li>
           </ul>
           
         </div>
