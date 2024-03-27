@@ -122,10 +122,13 @@ export default function Home() {
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
             I look forward to hearing back from you and working on this.
           </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100 pb-4`}>
+            Mindy
+          </p>          
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
             --
           </p>          
-          <p className={`m-0 max-w-[300ch] text-sm opacity-50`}>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-50 pt-4`}>
             NOTE: I consider myself an expert in supporting angry customers. I have even given <a href="https://wordpress.tv/2016/04/12/mindy-postoff-giving-great-support-to-angry-customers/">talks at conferences</a> about it. The first step is listening and understanding the user, followed by validating their emotions, and finally, bringing in logic and presenting a paths to a solution.
           </p>            
         </div>
