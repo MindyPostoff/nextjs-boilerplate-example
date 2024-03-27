@@ -61,11 +61,11 @@ export default function Home() {
             Least Favorite:
           </p>   
           <ul className={`list-decimal`}>
-            <li className={`text-sm pl-4`}>Dig through logs to troubleshoot a broken project.</li>
-            <li className={`text-sm pl-4`}>Analyze hundreds of support tickets to spot trends the product team can use.</li>
-            <li className={`text-sm pl-4`}>Scheduling time-off coverage and collaborating as part of a growing cohesive support team.</li>
-            <li className={`text-sm pl-4`}>Respond to over 50 support requests via email every day.</li>
-            <li className={`text-sm pl-4`}>Identify, file bugs in private and public repos on GitHub.</li>
+            <li className={`text-sm pl-4`}>Dig through logs to troubleshoot a broken project. Why? I much prefer working with humans, than digging through computer logs.</li>
+            <li className={`text-sm pl-4`}>Scheduling time-off coverage and collaborating as part of a growing cohesive support team. Why? Working with the logistics of schedules is not what floats my boast. I do, however, really enjoy planning the logistics and itineraries of traveling.</li>
+            <li className={`text-sm pl-4`}>Respond to over 50 support requests via email every day. Why? I find it mundane to work within a quota mentality. Each day is different, with different challenges that come in from users, so having a certain number of requests to reply to feels like a recipe for poorer support overall, because it does not leave space for requests to take longer.</li>
+            <li className={`text-sm pl-4`}>Identify, file bugs in private and public repos on GitHub. Why? I often find myself battling doubt, of whether a problem I have with the code is actually a problem everyone is having. This doubt makes it challenging to identify bugs.</li>
+            <li className={`text-sm pl-4`}>Analyze hundreds of support tickets to spot trends the product team can use. Why? Although I appreciate how important data analysis is, working with quantitative data is not as much fun for me as handling qualitative data.</li>
           </ul>
           
         </div>
