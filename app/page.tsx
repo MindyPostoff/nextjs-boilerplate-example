@@ -41,7 +41,7 @@ export default function Home() {
       </div>
 
       <div className="grid grid-cols-2 gap-4">
-        <div className={`mb-8 border-solid border-2 border-sky-500`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 1</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             My most and least favorite support tasks.
