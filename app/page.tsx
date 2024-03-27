@@ -41,7 +41,7 @@ export default function Home() {
       </div>
 
       <div className="grid grid-cols-2 gap-4">
-        <div>
+        <div className={`mb-8`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 1</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             My most and least favorite support tasks.
@@ -50,7 +50,7 @@ export default function Home() {
             My answer.
           </p>                
         </div>
-        <div>
+        <div className={`mb-8`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 2</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             Learn more. Do more.
@@ -59,14 +59,78 @@ export default function Home() {
             My answer.
           </p>              
         </div>
-        <div>Question 3</div>
-        <div>Question 4</div>
-        <div>Question 5</div>
-        <div>Question 6</div>
-        <div>Question 7</div>
-        <div>Question 8</div>       
-        <div>Question 9</div>
-        <div>Question 10</div>        
+        <div className={`mb-8`}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>Question 3</h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            I love a good challenge.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>    
+        </div>
+        <div className={`mb-8`}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>Question 4</h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            Edge Functions, Serverless Functions, and Edge Middleware, Oh My.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>            
+        </div>
+        <div className={`mb-8`}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>Question 5</h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            Troubleshooting the unknown is a hobby of mine.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>            
+        </div>
+        <div className={`mb-8`}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>Question 6</h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            Helping a frustrated customer.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>            
+        </div>
+        <div className={`mb-8`}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>Question 7</h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            Redirecting without losing SEO authority.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>            
+        </div>
+        <div className={`mb-8`}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>Question 8</h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            This party is awesome but search engines are not allowed.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>            
+        </div>       
+        <div className={`mb-8`}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>Question 2</h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            There are no problems we cannot solve together and very few that we can solve by ourselves. LBJ
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>            
+        </div>
+        <div className={`mb-8`}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>Question 10</h2>
+          <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+            Onward and upward.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            My answer.
+          </p>            
+        </div>        
       </div>
 
       
