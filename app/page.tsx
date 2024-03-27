@@ -111,11 +111,19 @@ export default function Home() {
             Helping a frustrated customer.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            Hi User,<br><br>
-            I completely understand your frustration! I have also had my share of trouble deploying code in my projects. It is going to feel great once we get to the bottom of this and it works!<br><br>
-            Based on your initial request, it sounds as though the main issue stems from a change in the xyz file. Is that correct? What are you trying to do exactly? I would like to help figure this out with you.<br><br>
-            I look forward to hearing back from you and working on this.<br><br>
-            Mindy
+            Hi User,
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            I completely understand your frustration! I have also had my share of trouble deploying code in my projects. It is going to feel great once we get to the bottom of this and it works!
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            Based on your initial request, it sounds as though the main issue stems from a change in the xyz file. Is that correct? What are you trying to do exactly? I would like to help figure this out with you.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            I look forward to hearing back from you and working on this.
+          </p>
+          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            NOTE: I consider myself an expert in supporting angry customers. I have even given <a href="https://wordpress.tv/2016/04/12/mindy-postoff-giving-great-support-to-angry-customers/">talks at conferences</a> about it. The first step is listening and understanding the user, followed by validating their emotions, and finally, bringing in logic and presenting a paths to a solution.
           </p>            
         </div>
         <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
@@ -124,7 +132,7 @@ export default function Home() {
             Redirecting without losing SEO authority.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            My answer.
+            I have unfortunately run out of time to research and answer how to do this in Vercel. There will be a redirect on the particular path, though.
           </p>            
         </div>
         <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
@@ -133,7 +141,7 @@ export default function Home() {
             This party is awesome but search engines are not allowed.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            My answer.
+            I have unfortunately run out of time to research and answer how to do this in Vercel. There will likely be a no-index value somewhere in the domain settings, though
           </p>            
         </div>       
         <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
@@ -142,7 +150,7 @@ export default function Home() {
             There are no problems we cannot solve together and very few that we can solve by ourselves. LBJ
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            My answer.
+            I have unfortunately run out of time to answer this. Learning about Next.js formatting and page.tsx syntax rules ate up too much of my time. Quickly, though... Common problems are best solved one-to-many formats, such as documentation, tutorials, webinars, etc. Knowing the volume of how many people are being helped in this way can help guide the product roadmap to alleviate the common hurdles, and improve user experience in the long term.
           </p>            
         </div>
         <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
