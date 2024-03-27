@@ -50,22 +50,22 @@ export default function Home() {
             Most Favorite:
           </p>   
           <ul className={`list-decimal`}>
-            <li className={`text-sm p-4`}>Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems.</li>
-            <li className={`text-sm p-4`}>Work with the product team to develop a new feature based on feedback from customers.</li>
-            <li className={`text-sm p-4`}>Create video tutorials to help teach users a specific feature or use case.</li>
-            <li className={`text-sm p-4`}>Manage a support team.</li>
-            <li className={`text-sm p-4`}>Help train and onboard new support teammates.</li>
+            <li className={`text-sm pl-4`}>Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems. Why? I love engaging with users, learning more about the projects they build, and what features would make their projects better.</li>
+            <li className={`text-sm pl-4`}>Work with the product team to develop a new feature based on feedback from customers. Why? As a customer advocate, I want to help convey the importance of different features to the product teams that have the resources to build the solutions. Ensuring that we keep a prioritized and sustainable roadmap is important to me.</li>
+            <li className={`text-sm pl-4`}>Create video tutorials to help teach users a specific feature or use case. Why? If a picture is worth a thousand words, a video walkthrough is worth so much more. I use video tutorials all the time, and I appreciate how helpful they are, so if I can create the same for our users, I will do it.</li>
+            <li className={`text-sm pl-4`}>Manage a support team. Why? I love helping people reach their goals, and by being a force multiplier leader, I am in a unique position to help teammates level up and drive the team to reach broader goals.</li>
+            <li className={`text-sm pl-4`}>Help train and onboard new support teammates. Why? See my point above. New teammates are bright-eyed and bushy-tailed, and ready to learn anything and everything. I love helping them get up to speed and become high performing colleagues.</li>
           </ul>
 
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
             Least Favorite:
           </p>   
           <ul className={`list-decimal`}>
-            <li className={`text-sm p-4`}>Dig through logs to troubleshoot a broken project.</li>
-            <li className={`text-sm p-4`}>Analyze hundreds of support tickets to spot trends the product team can use.</li>
-            <li className={`text-sm p-4`}>Scheduling time-off coverage and collaborating as part of a growing cohesive support team.</li>
-            <li className={`text-sm p-4`}>Respond to over 50 support requests via email every day.</li>
-            <li className={`text-sm p-4`}>Identify, file bugs in private and public repos on GitHub.</li>
+            <li className={`text-sm pl-4`}>Dig through logs to troubleshoot a broken project.</li>
+            <li className={`text-sm pl-4`}>Analyze hundreds of support tickets to spot trends the product team can use.</li>
+            <li className={`text-sm pl-4`}>Scheduling time-off coverage and collaborating as part of a growing cohesive support team.</li>
+            <li className={`text-sm pl-4`}>Respond to over 50 support requests via email every day.</li>
+            <li className={`text-sm pl-4`}>Identify, file bugs in private and public repos on GitHub.</li>
           </ul>
           
         </div>
