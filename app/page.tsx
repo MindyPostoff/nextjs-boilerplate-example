@@ -39,10 +39,6 @@ export default function Home() {
         />
       </div>
 
-      <div class="container mx-auto">
-        <h2>Question 1</h2>
-          
-      </div>
     </main>
   );
 }
