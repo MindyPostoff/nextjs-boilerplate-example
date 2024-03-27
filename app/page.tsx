@@ -1,7 +1,5 @@
 import Image from "next/image";
 
-import Accordion from "@/components/accordion"
-
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
@@ -41,97 +39,9 @@ export default function Home() {
         />
       </div>
 
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
-        <a
-          href="https://nextjs-boilerplate-example-five.vercel.app/"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Question 1{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            My most and least favorite support tasks.
-          </p>
-        </a>
-
-        <a
-          href="https://nextjs-boilerplate-example-five.vercel.app/"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Question 2{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn more. Do more.
-          </p>
-        </a>
-
-        <a
-          href="https://nextjs-boilerplate-example-five.vercel.app/"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Question 3{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            I love a good challenge.
-          </p>
-        </a>
-
-        <a
-          href="https://nextjs-boilerplate-example-five.vercel.app/"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Question 4{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Edge Functions, Serverless Functions, Edge Middleware, Oh My.
-          </p>
-        </a>
-      </div>
-
-      <div className="p-5">
-        <Accordion>
-          <AccordionItem key="1" aria-label="Accordion 1" subtitle="Press to expand" title="Accordion 1">
-          {defaultContent}
-          </AccordionItem>
-          <AccordionItem
-            key="2"
-            aria-label="Accordion 2"
-            subtitle={
-              <span>
-                Press to expand <strong>key 2</strong>
-              </span>
-            }
-            title="Accordion 2"
-          >
-          {defaultContent}
-          </AccordionItem>
-          <AccordionItem key="3" aria-label="Accordion 3" subtitle="Press to expand" title="Accordion 3">
-            {defaultContent}
-          </AccordionItem>
-        </Accordion>
+      <div class="container mx-auto">
+        <h2>Question 1</h2>
+          
       </div>
     </main>
   );
