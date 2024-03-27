@@ -61,7 +61,7 @@ export default function Home() {
             Least Favorite:
           </p>   
           <ul>
-            <li>Dig through logs to troubleshoot a customer\'s broken project.</li>
+            <li>Dig through logs to troubleshoot a broken project.</li>
             <li>Analyze hundreds of support tickets to spot trends the product team can use.</li>
             <li>Scheduling time-off coverage and collaborating as part of a growing cohesive support team.</li>
             <li>Respond to over 50 support requests via email every day.</li>
