@@ -40,7 +40,7 @@ export default function Home() {
 
       </div>
 
-      <div class="grid grid-cols-2 gap-4">
+      <div className="grid grid-cols-2 gap-4">
         <div>Question 1</div>
         <div>Question 2</div>
         <div>Question 3</div>
