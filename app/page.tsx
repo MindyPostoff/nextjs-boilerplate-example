@@ -70,7 +70,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            What do I want to learn or do more of at work?
+            Learn more. Do more.
           </p>
         </a>
 
@@ -87,7 +87,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Who doesn't love a good challenge?
+            I love a good challenge.
           </p>
         </a>
 
@@ -104,7 +104,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Edge Functions, Serverless Functions, Edge Middleware, Oh My!
+            Edge Functions, Serverless Functions, Edge Middleware, Oh My.
           </p>
         </a>
 
