@@ -37,6 +37,8 @@ export default function Home() {
           height={180}
           priority
         />
+
+        <h2>Questions</h2>
       </div>
 
     </main>
