@@ -50,7 +50,7 @@ export default function Home() {
             My answer.
           </p>                
         </div>
-        <div className={`mb-8`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 2</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             Learn more. Do more.
@@ -59,7 +59,7 @@ export default function Home() {
             My answer.
           </p>              
         </div>
-        <div className={`mb-8`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 3</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             I love a good challenge.
@@ -68,7 +68,7 @@ export default function Home() {
             My answer.
           </p>    
         </div>
-        <div className={`mb-8`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 4</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             Edge Functions, Serverless Functions, and Edge Middleware, Oh My.
@@ -77,7 +77,7 @@ export default function Home() {
             My answer.
           </p>            
         </div>
-        <div className={`mb-8`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 5</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             Troubleshooting the unknown is a hobby of mine.
@@ -86,7 +86,7 @@ export default function Home() {
             My answer.
           </p>            
         </div>
-        <div className={`mb-8`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 6</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             Helping a frustrated customer.
@@ -95,7 +95,7 @@ export default function Home() {
             My answer.
           </p>            
         </div>
-        <div className={`mb-8`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 7</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             Redirecting without losing SEO authority.
@@ -104,7 +104,7 @@ export default function Home() {
             My answer.
           </p>            
         </div>
-        <div className={`mb-8`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 8</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             This party is awesome but search engines are not allowed.
@@ -113,7 +113,7 @@ export default function Home() {
             My answer.
           </p>            
         </div>       
-        <div className={`mb-8`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 2</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             There are no problems we cannot solve together and very few that we can solve by ourselves. LBJ
@@ -122,7 +122,7 @@ export default function Home() {
             My answer.
           </p>            
         </div>
-        <div className={`mb-8`}>
+        <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
           <h2 className={`mb-3 text-2xl font-semibold`}>Question 10</h2>
           <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
             Onward and upward.
