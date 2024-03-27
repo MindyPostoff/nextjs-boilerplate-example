@@ -49,7 +49,7 @@ export default function Home() {
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
             Most Favorite:
           </p>   
-          <ul className={`list-decimal`}>
+          <ul className={`list-decimal pl-4`}>
             <li className={`text-sm pl-4`}>Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems. Why? I love engaging with users, learning more about the projects they build, and what features would make their projects better.</li>
             <li className={`text-sm pl-4`}>Work with the product team to develop a new feature based on feedback from customers. Why? As a customer advocate, I want to help convey the importance of different features to the product teams that have the resources to build the solutions. Ensuring that we keep a prioritized and sustainable roadmap is important to me.</li>
             <li className={`text-sm pl-4`}>Create video tutorials to help teach users a specific feature or use case. Why? If a picture is worth a thousand words, a video walkthrough is worth so much more. I use video tutorials all the time, and I appreciate how helpful they are, so if I can create the same for our users, I will do it.</li>
@@ -60,7 +60,7 @@ export default function Home() {
           <p className={`m-0 pt-4 max-w-[300ch] text-sm opacity-100`}>
             Least Favorite:
           </p>   
-          <ul className={`list-decimal`}>
+          <ul className={`list-decimal pl-4`}>
             <li className={`text-sm pl-4`}>Dig through logs to troubleshoot a broken project. Why? I much prefer working with humans, than digging through computer logs.</li>
             <li className={`text-sm pl-4`}>Scheduling time-off coverage and collaborating as part of a growing cohesive support team. Why? Working with the logistics of schedules is not what floats my boast. I do, however, really enjoy planning the logistics and itineraries of traveling.</li>
             <li className={`text-sm pl-4`}>Respond to over 50 support requests via email every day. Why? I find it mundane to work within a quota mentality. Each day is different, with different challenges that come in from users, so having a certain number of requests to reply to feels like a recipe for poorer support overall, because it does not leave space for requests to take longer.</li>
@@ -123,6 +123,9 @@ export default function Home() {
             I look forward to hearing back from you and working on this.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+            --
+          </p>          
+          <p className={`m-0 max-w-[300ch] text-sm opacity-50`}>
             NOTE: I consider myself an expert in supporting angry customers. I have even given <a href="https://wordpress.tv/2016/04/12/mindy-postoff-giving-great-support-to-angry-customers/">talks at conferences</a> about it. The first step is listening and understanding the user, followed by validating their emotions, and finally, bringing in logic and presenting a paths to a solution.
           </p>            
         </div>
@@ -159,7 +162,7 @@ export default function Home() {
             Onward and upward.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            My answer.
+            I got bogged down by syntax errors, which I felt needed to be resolved before I could fill in my content. The exercise was extremely successful at helping me get more familiar with the connection workflow, making code changes, and pushing deployments. I learned a lot in these last 3 hours, and I am super excited to learn more!
           </p>            
         </div>        
       </div>
