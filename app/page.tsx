@@ -57,7 +57,7 @@ export default function Home() {
             <li className={`text-sm pl-4`}>Help train and onboard new support teammates. Why? See my point above. New teammates are bright-eyed and bushy-tailed, and ready to learn anything and everything. I love helping them get up to speed and become high performing colleagues.</li>
           </ul>
 
-          <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+          <p className={`m-0 pt-4 max-w-[300ch] text-sm opacity-100`}>
             Least Favorite:
           </p>   
           <ul className={`list-decimal`}>
@@ -75,7 +75,7 @@ export default function Home() {
             Learn more. Do more.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            My answer.
+            I want to be a strong user advocate and brand ambassador. I need to learn more about the technology used, and how projects are being built with it. My mind is swimming with Vercel right now, so I want to learn more about Next.js and how to build website using it!
           </p>              
         </div>
         <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
@@ -84,7 +84,7 @@ export default function Home() {
             I love a good challenge.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            My answer.
+            When I was leading a support team, a teammate took it upon themself to act on a decision that resulted in a loss of revenue for the company. They felt that it was immorale for the company to sell a product that was known to have a particular bug in it. I had to have a very candid discussion with them, where I listened to their concerns, explained why their actions were inappropriate, and set expectations for them moving forward. Years later, they told me that that incident, and how I helped them maneuver through it, was the most impactful experience of their career.
           </p>    
         </div>
         <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
@@ -93,7 +93,7 @@ export default function Home() {
             Edge Functions, Serverless Functions, and Edge Middleware, Oh My.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            My answer.
+            Edge Functions are best used when lightweight JavaScript functions that execute close to the user are needed. Serverless Functions are for when you want access to all the Node.js APIs for writing on the web. Edge Middleware is code that executes before a request is processed on a site, so this is helpful when you want to personalize statically-generated content. 
           </p>            
         </div>
         <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
