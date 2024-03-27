@@ -51,6 +51,17 @@ export default function Home() {
         </p>        
       </div>
       
+      <div>      
+        <h2 className={`mb-3 text-2xl font-semibold`}>
+          Question 2
+        </h2>
+        <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
+          Learn more. Do more.
+        </p>
+        <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
+          My answer.
+        </p>        
+      </div>      
       
     </main>
   );
