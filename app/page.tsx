@@ -39,29 +39,20 @@ export default function Home() {
         />
 
       </div>
-      <div>      
-        <h2 className={`mb-3 text-2xl font-semibold`}>
-          Question 1
-        </h2>
-        <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
-          My most and least favorite support tasks.
-        </p>
-        <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-          My answer.
-        </p>        
+
+      <div class="grid grid-cols-2 gap-4">
+        <div>Question 1</div>
+        <div>Question 2</div>
+        <div>Question 3</div>
+        <div>Question 4</div>
+        <div>Question 5</div>
+        <div>Question 6</div>
+        <div>Question 7</div>
+        <div>Question 8</div>       
+        <div>Question 9</div>
+        <div>Question 10</div>        
       </div>
-      
-      <div>      
-        <h2 className={`mb-3 text-2xl font-semibold`}>
-          Question 2
-        </h2>
-        <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
-          Learn more. Do more.
-        </p>
-        <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-          My answer.
-        </p>        
-      </div>      
+
       
     </main>
   );
