@@ -40,7 +40,12 @@ export default function Home() {
 
       </div>
       <div>      
-        <h2>Questions</h2>
+        <h2 className={`mb-3 text-2xl font-semibold`}>
+          Question 1
+        </h2>
+        <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+          My most and least favorite support tasks.
+        </p>
       </div>
 
     </main>
