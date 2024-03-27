@@ -68,7 +68,7 @@ export default function Home() {
           Question 3
         </h2>
         <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
-          Who doesn't love a good challenge?
+          I love a good challenge.
         </p>
         <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
           My answer.
@@ -80,7 +80,7 @@ export default function Home() {
           Question 4
         </h2>
         <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
-          Edge Functions, Serverless Functions, Edge Middleware, Oh My!
+          Edge Functions, Serverless Functions, Edge Middleware, Oh My.
         </p>
         <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
           Troubleshooting the unknown is a hobby of mine.
@@ -116,7 +116,7 @@ export default function Home() {
           Question 7
         </h2>
         <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
-          How to redirect /blog to example.com, without losing SEO authority.
+          Redirecting without losing SEO authority.
         </p>
         <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
           My answer.
