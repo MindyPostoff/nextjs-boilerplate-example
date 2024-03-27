@@ -80,7 +80,7 @@ export default function Home() {
           Question 4
         </h2>
         <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
-          Edge Functions, Serverless Functions, Edge Middleware, Oh My.
+          Edge Functions and Serverless Functions and Edge Middleware - Oh My.
         </p>
         <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
           Troubleshooting the unknown is a hobby of mine.
@@ -128,7 +128,7 @@ export default function Home() {
           Question 8
         </h2>
         <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
-          This party is awesome, but search engines aren't invited.
+          This party is awesome but search engines aren't invited.
         </p>
         <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
           My answer.
@@ -140,7 +140,7 @@ export default function Home() {
           Question 9
         </h2>
         <p className={`mb-8 max-w-[300ch] text-sm opacity-50`}>
-          There are no problems we cannot solve together, and very few that we can solve by ourselves. LBJ
+          There are no problems we cannot solve together and very few that we can solve by ourselves. LBJ
         </p>
         <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
           My answer.
