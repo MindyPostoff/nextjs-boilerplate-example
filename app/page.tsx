@@ -49,7 +49,7 @@ export default function Home() {
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
             Most Favorite:
           </p>   
-          <ul>
+          <ul className={`list-decimal`}>
             <li>Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems.</li>
             <li>Work with the product team to develop a new feature based on feedback from customers.</li>
             <li>Create video tutorials to help teach users a specific feature or use case.</li>
@@ -60,7 +60,7 @@ export default function Home() {
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
             Least Favorite:
           </p>   
-          <ul>
+          <ul className={`list-decimal`}>
             <li>Dig through logs to troubleshoot a broken project.</li>
             <li>Analyze hundreds of support tickets to spot trends the product team can use.</li>
             <li>Scheduling time-off coverage and collaborating as part of a growing cohesive support team.</li>
