@@ -102,7 +102,7 @@ export default function Home() {
             Troubleshooting the unknown is a hobby of mine.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            My answer.
+            The first step I would take is to get an overview of the technology, and get a better sense of how the technology or framework is used. I would turn to Google and AI to try and quickly understand it at a high level. Once I felt more confident in the technology, I would research the particular error the customer is having and see if I can present a potential solution. In my response to the customer, I would ask clarifying questions about their build environment, when their last deployment was successful without the error, and what they are trying to accomplish with this code update that is causing the issue.
           </p>            
         </div>
         <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
@@ -111,7 +111,11 @@ export default function Home() {
             Helping a frustrated customer.
           </p>
           <p className={`m-0 max-w-[300ch] text-sm opacity-100`}>
-            My answer.
+            Hi User,<br><br>
+            I completely understand your frustration! I have also had my share of trouble deploying code in my projects. It is going to feel great once we get to the bottom of this and it works!<br><br>
+            Based on your initial request, it sounds as though the main issue stems from a change in the xyz file. Is that correct? What are you trying to do exactly? I would like to help figure this out with you.<br><br>
+            I look forward to hearing back from you and working on this.<br><br>
+            Mindy
           </p>            
         </div>
         <div className={`mb-8 border-solid border-2 border-sky-500 p-4`}>
